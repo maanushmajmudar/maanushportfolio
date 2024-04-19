@@ -1,0 +1,19 @@
+.about {
+    width: 100%;
+    margin: 3rem 0;
+    text-align: center; /* Center align all content */
+    padding-inline:20px;
+}
+.about h1{
+    margin-bottom: 10px;
+}
+
+.about .left {
+    margin: auto;
+    padding: 1rem;
+    max-width: 700px; /* Adjusted max-width for better readability */
+}
+
+.about .left p {
+    margin: 1.2rem 0;
+}

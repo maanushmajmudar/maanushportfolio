@@ -1,0 +1,17 @@
+.contact-info {
+    text-align: center; /* Center align the text within the container */
+    margin: auto; /* Center the container horizontally */
+    max-width: 600px;
+    padding: 4rem 1rem;
+}
+
+.contact-info h2,
+.contact-info p {
+    color: #fff;
+    margin-bottom: 0.5rem;
+}
+
+.contact-info p {
+    font-size: 1.2rem;
+}
+
